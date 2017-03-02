@@ -1,0 +1,3 @@
+To set a password for the root
+$ sudo passwd root
+
