@@ -1,3 +1,8 @@
 To set a password for the root
 $ sudo passwd root
 
+To make parent and child Directories
+$ mkdir -p /tmp/amrood/test
+
+Removing Directories
+$ rmdir dirname
