@@ -1,8 +1,37 @@
 To set a password for the root
 $ sudo passwd root
 
+Create new Directory
+$ mkdir directoryname
+
+Remove Directory
+$ rmdir directoryname
+
 To make parent and child Directories
 $ mkdir -p /tmp/amrood/test
 
 Removing Directories
 $ rmdir dirname
+
+Create a new file
+$ touch filename
+
+Rename File
+$ mv oldfilename newfilename
+
+To Display current path
+$ pwd
+
+To list the contents of current Directory ( ls - list directory contents )
+$ ls 
+$ la -a
+$ ls -la
+
+
+
+
+
+
+
+
+
