@@ -27,8 +27,9 @@ $ ls
 $ la -a
 $ ls -la
 
-
-
+find swap file
+==============
+$ find | grep ".pool_lic.txt.swp"
 
 
 
