@@ -1,0 +1,11 @@
+/home/asm/.mozilla/firefox
+
+1. Goto Home pess ctrl+H
+
+2. Open ".mozilla" folder
+
+3.Open "firefox" folder
+
+4. Now open "o3eepxzz.default" folder
+
+5.Now delete a file with name "cert8.db"
