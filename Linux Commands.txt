@@ -32,6 +32,10 @@ find swap file
 $ find | grep ".pool_lic.txt.swp"
 
 
+To search for a file in directories
+$ find . -name file_name(or pattern)
+
+
 
 
 
